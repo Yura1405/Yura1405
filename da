@@ -1,0 +1,38 @@
+#include <iostream>
+#include <locale>
+#include <algorithm>
+ 
+using namespace std;
+ 
+int main()
+{
+  setlocale(LC_ALL,"Russian");
+   int a,array[a],indexx;
+      cout « "количество чисел в масиве: ";
+       cin»a;
+      cout«"ведите масив с "« a «" елементами: ";
+for (int counter = 0; counter < a; counter++)
+    {
+       cin » array[counter];
+    }
+    cout « "Исходный массив:";
+for (int counter = 0; counter < a; counter++){
+        cout « array[counter] «" ";
+    }
+    int max= array[0];
+for(int i=1;i<a;i++){
+      if(array[i]>max)
+      {
+        max=array[i];
+        indexx=i;
+      }
+    }
+   array[indexx] = 0;
+   cout«endl;
+    cout « "Массив после изменений: ";
+for (int counter = 0; counter < a; counter++)
+    {
+        cout « array[counter] « " ";
+    }
+     cout « " " « endl;
+}
