@@ -1,0 +1,9 @@
+C:\Users\Yura228\source\repos\LAB1PYLYPOV\LAB1PYLYPOV\bin\Debug\LAB1PYLYPOV.exe.config
+C:\Users\Yura228\source\repos\LAB1PYLYPOV\LAB1PYLYPOV\bin\Debug\LAB1PYLYPOV.exe
+C:\Users\Yura228\source\repos\LAB1PYLYPOV\LAB1PYLYPOV\bin\Debug\LAB1PYLYPOV.pdb
+C:\Users\Yura228\source\repos\LAB1PYLYPOV\LAB1PYLYPOV\obj\Debug\LAB1PYLYPOV.csprojAssemblyReference.cache
+C:\Users\Yura228\source\repos\LAB1PYLYPOV\LAB1PYLYPOV\obj\Debug\LAB1PYLYPOV.Form1.resources
+C:\Users\Yura228\source\repos\LAB1PYLYPOV\LAB1PYLYPOV\obj\Debug\LAB1PYLYPOV.Properties.Resources.resources
+C:\Users\Yura228\source\repos\LAB1PYLYPOV\LAB1PYLYPOV\obj\Debug\LAB1PYLYPOV.csproj.GenerateResource.cache
+C:\Users\Yura228\source\repos\LAB1PYLYPOV\LAB1PYLYPOV\obj\Debug\LAB1PYLYPOV.exe
+C:\Users\Yura228\source\repos\LAB1PYLYPOV\LAB1PYLYPOV\obj\Debug\LAB1PYLYPOV.pdb
